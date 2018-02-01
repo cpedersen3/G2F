@@ -1,5 +1,5 @@
 # G2F
-Code used to analyze raw data from larger study
+#Code used to analyze raw data from larger study
 plant_id = {}
 c = open('Yumou.csv', 'r')
 c.readline()
